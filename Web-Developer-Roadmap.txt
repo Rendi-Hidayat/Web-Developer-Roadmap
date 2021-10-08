@@ -72,7 +72,7 @@ Package Manager
 
 https://sekolahkoding.com/forum/apa-itu-package-dan-package-manager
 
-Framework Front End
+Frontend Framework
 
 https://glints.com/id/lowongan/front-end-framework
 
@@ -82,7 +82,7 @@ Bahasa Pemprograman
 
 https://teknologi.id/insight/4-bahasa-pemrograman-terbaik-untuk-pengembangan-web-back-end
 
-Framework Backend
+Backend Framework
 
 https://www.goindoti.com/2021/03/5-rekomendasi-framework-terbaik-untuk-back-end-web-development.html
 
