@@ -1,7 +1,6 @@
 # Web Developer Roadmap
 
-Alur belajar menjadi Web Developer
-Web Developer Roadmap
+Alur belajar menjadi Web Developer :
 
 Internet dan Teknologi Web
 
