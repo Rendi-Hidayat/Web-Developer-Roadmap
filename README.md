@@ -2,7 +2,7 @@
 
 Alur belajar menjadi Web Developer :
 
-Internet dan Teknologi Web
+**Internet dan Teknologi Web**
 
 Internet
 
@@ -29,7 +29,7 @@ Control Panel Hosting
 https://www.niagahoster.co.id/blog/control-panel-hosting
 
 
-Tools Pendukung
+**Tools Pendukung**
 
 Code Editor
 
@@ -52,7 +52,7 @@ Github
 https://www.dicoding.com/blog/apa-itu-github
 
 
-Frontend
+**Frontend**
 
 HTML
 
@@ -78,7 +78,7 @@ Framework Front End
 
 https://glints.com/id/lowongan/front-end-framework
 
-Backend
+**Backend**
 
 Bahasa Pemprograman
 
