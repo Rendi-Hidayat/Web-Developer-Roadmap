@@ -26,9 +26,9 @@
  - HTML
  - CSS
  - JavaScript
+ - Frontend Framework
  - API
  - Package Manager
- - Frontend Framework
 
  **Backend**
 
